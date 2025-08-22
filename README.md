@@ -1,12 +1,26 @@
-# React + Vite
+# TalentTrack – AI-Powered Job Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TalentTrek is an AI-powered job portal developed using the **MERN stack**. The platform streamlines the recruitment process by integrating **smart resume screening**, **personalized job recommendations**, and **efficient applicant filtering**. It bridges the gap between employers and job seekers by providing a seamless, scalable, and intelligent hiring solution.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- **AI-Powered Screening**: Uses OpenAI for intelligent resume parsing and candidate evaluation.  
+- **Personalized Recommendations**: Tailored job suggestions for candidates based on their profiles.  
+- **Job Posting & Management**: HR can create, update, and manage job listings.  
+- **Applicant Tracking**: Employers can efficiently filter and manage applicants.  
+- **Secure Authentication**: Role-based access for recruiters and job seekers.  
+- **Scalable MERN Architecture**: Built for performance and extensibility.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend**: React.js, Redux, Axios, Chakra UI / Ant Design  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **AI Integration**: OpenAI API  
+- **Authentication**: JWT & Role-Based Access  
+
+---
+
+
